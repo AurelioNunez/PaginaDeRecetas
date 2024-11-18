@@ -1,0 +1,39 @@
+All notable changes to this project will be documented in this file.
+
+[Unreleased] 2024 - Nov - 17
+
+### Added
+
+    * index. html
+    * pancake. html
+    * chicha.html
+    * bilharacos.html
+    * letriada.html
+
+### changed
+
+### Fixed
+
+___________________________________________________
+[V0.2] 2024 - Nov - 18
+
+### Added
+    * /recipes
+    * /recipes/img
+    * ChangeLog.txt
+    * varios icons for ingredients
+      and utensils in /recipes/img
+
+### changed
+
+    * moved bilharacos.html to /recipes
+    * moved chicha.html to /recipes
+    * moved pancake.html to /recipes
+    * removed letriada.html
+    * added icons to bilharacos.html
+    * added icons to chicha.html
+    * added icons to pancake.html
+    * added sign of incompletion to pancake.html
+    * added sign of incompletion to bilharacos.html
+
+### Fixed
